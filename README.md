@@ -7,7 +7,7 @@ Web Developer/Designer
 Emerging web developer adept in design, integrating creative flair with coding expertise to deliver polished digital solutions.
 
 *   🌍  I'm based in Nagpur, India
-*   🖥️  See my portfolio at [My Portfolio](http://behance.net/AbhiLodhi_o1)
+*   🖥️  See my portfolio at [My Portfolio](https://x.com/abhilodhi01)
 *   ✉️  You can contact me at [workabhilodhi01@gmail.com](mailto:workabhilodhi01@gmail.com)
 *   🧠  I'm learning JavaScript ,React,NextJS,
 *   🤝  I'm open to collaborating on Intresting project like Health\_Care,Bloging website, Crypto and Portfolio
